@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "37862110761",
+    "firebase_url": "https://voleg-ad2fd.firebaseio.com",
+    "project_id": "voleg-ad2fd",
+    "storage_bucket": "voleg-ad2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37862110761:android:b53845f62cb5b252e90e38",
+        "android_client_info": {
+          "package_name": "com.greenzeal.voleg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37862110761-7nn5fb62bi4vrfanuf801kt8itk1n0cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxIGOPpNtEVZqI_MyN6RnKtXbw4y5eJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37862110761-7nn5fb62bi4vrfanuf801kt8itk1n0cu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37862110761-rrj3ef11qmem6c5brehgsud1q22jjojh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greenzeal.Voleg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
